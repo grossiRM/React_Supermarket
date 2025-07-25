@@ -5,8 +5,7 @@ package.json        //
 "dependencies": {   //
 $ 	npm uninstall @testing-library/dom @testing-library/jest-dom @testing-library/react @testing-library/user-event web-vitals
 
-
-
+__________________________________________________________________________________________
 "name": "rmg",       //						git
   "version": "0.1.0",//						git	
   "homepage": "https://github.com/grossiRM/React_tut09", 	git
